@@ -1,5 +1,3 @@
-# ui.py
-
 import pygame
 import sys  # Para sys.exit() nas telas de mensagem
 from settings import *

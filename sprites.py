@@ -1,5 +1,3 @@
-# sprites.py
-
 import pygame
 import random
 from settings import *  # Importa todas as configurações

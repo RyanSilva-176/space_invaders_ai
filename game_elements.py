@@ -1,8 +1,6 @@
-# game_elements.py
-
 import pygame
 from settings import *
-from sprites import Invader, Barrier  # Precisa das classes
+from sprites import Invader, Barrier
 
 
 def create_invaders_for_level(all_sprites_group, invaders_group, level):

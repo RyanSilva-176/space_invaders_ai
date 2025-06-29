@@ -1,5 +1,3 @@
-# settings.py
-
 import pygame
 
 # --- Constantes de Tela e Jogo ---

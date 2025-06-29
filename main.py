@@ -1,3 +1,4 @@
+# Imports
 import pygame
 import random
 import sys
@@ -279,7 +280,7 @@ def game_loop():
 
             pygame.display.flip()
             clock.tick(FPS)
-    
+
     pygame.quit()
     sys.exit()
 
